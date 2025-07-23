@@ -1,5 +1,19 @@
 # Google-cloud-Security-capstone-project
 
+NOTE:
+
+⚠️ Disclaimer
+
+> This incident report was created as part of an academic or personal learning exercise conducted in a simulated environment. All events, data, and references included in this report are entirely fictional and do not represent any real-world organization, company, or individual.
+
+This report is intended solely for educational and demonstration purposes. Any resemblance to actual events, entities, or persons is purely coincidental and unintentional.
+
+The author does not endorse or support any misuse of the information presented herein.
+
+
+
+---
+
 
 
 Description:
